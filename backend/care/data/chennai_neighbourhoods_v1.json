@@ -1,0 +1,1625 @@
+{
+  "version": 1,
+  "retrieved": "2026-11-13",
+  "coverage": "Chennai city neighbourhoods and selected adjoining metropolitan localities; not ward boundaries or an exhaustive gazetteer of every colony.",
+  "sources": {
+    "coordinates-dataset": "https://github.com/yankarto/Chennai-neighborhood-coordinates-dataset/tree/49a56f4900a71e16733c59e1806b3837169a29e3",
+    "areas-of-chennai": "https://en.wikipedia.org/w/index.php?title=Areas_of_Chennai&oldid=1376771538",
+    "regional-supplement": "https://en.wikipedia.org/wiki/List_of_neighbourhoods_of_Chennai"
+  },
+  "regions": [
+    {
+      "area": "Adambakkam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Adyar",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Alandur",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Alapakkam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Alwarpet",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Alwarthirunagar",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Ambattur",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Aminjikarai",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Anna Nagar",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Annanur",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Arumbakkam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Ashok Nagar",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Avadi",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Ayanavaram",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Ayappakkam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Basin Bridge",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Beemannapettai",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Besant Nagar",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Broadway",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Central",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Chepauk",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Chetpet",
+      "aliases": [
+        "Chetput"
+      ],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Chintadripet",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Chitlapakkam",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Choolai",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Choolaimedu",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Chromepet",
+      "aliases": [
+        "Chrompet"
+      ],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Defence Colony",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Egmore",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Ekkaduthangal",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Ennore",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Eranavur",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Erukanchery",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Foreshore Estate",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Fort St. George",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "George Town",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Gerugambakkam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Gopalapuram",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Government Estate",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Guduvanchery",
+      "aliases": [
+        "Guduvancheri"
+      ],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Guindy",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Hastinapuram",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "ICF Colony",
+      "aliases": [
+        "ICF"
+      ],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "IIT Madras",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Injambakkam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Irumbuliyur",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Iyyapanthangal",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Jafferkhanpet",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Jamalia",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "K.K. Nagar",
+      "aliases": [
+        "KK Nagar"
+      ],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Kadambathur",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Kadaperi",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Kallikuppam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Karambakkam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Karapakkam",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Kathirvedu",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Kathivakkam",
+      "aliases": [
+        "Kattivakkam"
+      ],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Kattupakkam",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Kazhipattur",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Keelkattalai",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Kilpauk",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Kodambakkam",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Kodungaiyur",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Kolappakkam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Kolathur",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Korattur",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Korukkupet",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Kosapet",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Kottivakkam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Kottur",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Kotturpuram",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Kovilambakkam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Kovur",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Koyambedu",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Kundrathur",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Lakshmipuram",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "M.G.R. Garden",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "M.G.R. Nagar",
+      "aliases": [
+        "MGR Nagar"
+      ],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "M.K.B. Nagar",
+      "aliases": [
+        "MKB Nagar"
+      ],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Madambakkam",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Madhavaram",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Madhavaram Milk Colony",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Madipakkam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Maduravoyal",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Mambakkam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Manali",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Manali New Town",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Manapakkam",
+      "aliases": [
+        "manapakkam"
+      ],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Mandaveli",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Mangadu",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Manjambakkam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Mannadi",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Mathur",
+      "aliases": [
+        "Mathur MMDA"
+      ],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Medavakkam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Meenambakkam",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Minjur",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "MMDA Colony",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Mogappair",
+      "aliases": [
+        "Mugappair"
+      ],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Moolakadai",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Mount Road",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Mowlivakkam",
+      "aliases": [
+        "Moulivakkam"
+      ],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Mudichur",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Mugalivakkam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Mylapore",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Nagalkeni",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Nandambakkam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Nandanam",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Nanganallur",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Nanmangalam",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Naravarikuppam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Neelankarai",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Nemilichery",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Nerkundrum",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Nesapakkam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "New Washermenpet",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Nolambur",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Noombal",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Nungambakkam",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Old Washermenpet",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Oragadam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Otteri",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Padi",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Pakkam",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Palavakkam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Pallavaram",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Pallikaranai",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Pammal",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Park Town",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Parry's Corner",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Pattabiram",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Pattalam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Pattaravakkam",
+      "aliases": [
+        "Pattravakkam"
+      ],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Pazhavanthangal",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Peerkankaranai",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Perambur",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Peravallur",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Periamet",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Perumbakkam",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Perungalathur",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Perungudi",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Ponniammanmedu",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Poonamallee",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Porur",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Pozhichalur",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Pudupet",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Pudur",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Pulianthope",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Purasawalkam",
+      "aliases": [
+        "Purasaiwalkam"
+      ],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Puthagaram",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Puzhal",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Puzhuthivakkam - Ullagaram",
+      "aliases": [
+        "Puzhuthivakkam",
+        "Ullagaram"
+      ],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Raj Bhavan",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Ramapuram",
+      "aliases": [
+        "Ramavaram"
+      ],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Red Hills",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Royapettah",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Royapuram",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Saidapet",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Saligramam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Santhome",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Selaiyur",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Selavoyal",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Sembakkam",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Sembiam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Shenoy Nagar",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Sholavaram",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Sholinganallur",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Sikkarayapuram",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Sithalapakkam",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Sowcarpet",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "St. Thomas Mount",
+      "aliases": [
+        "St.Thomas Mount"
+      ],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Surapet",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "T. Nagar",
+      "aliases": [
+        "T Nagar",
+        "Thyagaraya Nagar"
+      ],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "T.V.K. Nagar",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Tambaram",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Taramani",
+      "aliases": [
+        "Tharamani"
+      ],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Teynampet",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Thirumangalam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Thirumazhisai",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Thirumullaivayal",
+      "aliases": [
+        "Thirumullaivoyal"
+      ],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Thirumullaivoyal north",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Thiruneermalai",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Thirunindravur",
+      "aliases": [
+        "Thiruninravur"
+      ],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Thiruvanmiyur",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Thiruverkadu",
+      "aliases": [
+        "Tiruverkadu"
+      ],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Thoraipakkam",
+      "aliases": [
+        "Thuraipakkam"
+      ],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Thousand Lights",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Tirusulam",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Tiruvallur",
+      "aliases": [
+        "Thiruvallur"
+      ],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Tiruvottiyur",
+      "aliases": [
+        "Thiruvotriyur"
+      ],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Tondiarpet",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Triplicane",
+      "aliases": [
+        "Tiruvallikeni"
+      ],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "United India Colony",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Uthandi",
+      "aliases": [],
+      "sources": [
+        "regional-supplement"
+      ]
+    },
+    {
+      "area": "Vadapalani",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Valasaravakkam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Vallalar Nagar",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Vanagaram",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Vandalur",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Varadharajapuram",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Velachery",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Velappanchavadi",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Vepery",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset"
+      ]
+    },
+    {
+      "area": "Villivakkam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Virugambakkam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Vyasarpadi",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "Washermanpet",
+      "aliases": [],
+      "sources": [
+        "areas-of-chennai"
+      ]
+    },
+    {
+      "area": "West Mambalam",
+      "aliases": [],
+      "sources": [
+        "coordinates-dataset",
+        "areas-of-chennai"
+      ]
+    }
+  ]
+}
